@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1667213828 source:/home/jordan/Bureau/p_parallele/projet_tetravex/helpers.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<sstream>
+	<cstring>
+
+1667468553 source:/home/jordan/Bureau/p_parallele/projet_tetravex/main.cpp
+	<iostream>
+	<ctime>
+	"plateau.cpp"
+
+1667214257 /home/jordan/Bureau/p_parallele/projet_tetravex/plateau.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<sstream>
+	<cstring>
+	"helpers.cpp"
+	"piece.cpp"
+	"coordinate.cpp"
+
+1667213828 /home/jordan/Bureau/p_parallele/projet_tetravex/helpers.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<sstream>
+	<cstring>
+
+1667213941 /home/jordan/Bureau/p_parallele/projet_tetravex/piece.cpp
+	<iostream>
+	<fstream>
+
+1667214067 /home/jordan/Bureau/p_parallele/projet_tetravex/coordinate.cpp
+	<iostream>
+	<fstream>
+
+1667214257 source:/home/jordan/Bureau/p_parallele/projet_tetravex/plateau.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<sstream>
+	<cstring>
+	"helpers.cpp"
+	"piece.cpp"
+	"coordinate.cpp"
+
